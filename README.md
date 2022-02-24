@@ -1,3 +1,3 @@
 # mysite
 
-![Admin](./이미지가 있는 폴더/이미지이름.형식)
+![Admin](./Admin-user.png)
